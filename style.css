@@ -1,0 +1,143 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(eighthorns.png);
+
+}
+
+img {
+  display: block;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+p, a {
+  text-align: center;
+  font-size: 1.25em;
+  margin: 20px 50px;
+  line-height: 1.4;
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+
+/* Spacing */
+
+
+/***********/
+
+
+.nopadding {
+    padding: 0px;
+}
+
+.padding10 {
+    padding: 10px;
+}
+
+.toppadding5 {
+    padding-top: 5px;
+}
+
+.toppadding10 {
+    padding-top: 10px;
+}
+
+.toppadding15 {
+    padding-top: 15px;
+}
+
+.toppadding20 {
+    padding-top: 20px;
+}
+
+.toppadding25 {
+    padding-top: 25px;
+}
+
+.toppadding30 {
+    padding-top: 30px;
+}
+
+.toppadding35 {
+    padding-top: 35px;
+}
+
+.toppadding40 {
+    padding-top: 40px;
+}
+
+.toppadding50 {
+    padding-top: 50px;
+}
+
+.toppadding60 {
+    padding-top: 60px;
+}
+
+.toppadding70 {
+    padding-top: 70px;
+}
+
+.toppadding80 {
+    padding-top: 80px;
+}
+
+.toppadding100 {
+    padding-top: 100px;
+}
+
+.bottompadding5 {
+    padding-bottom: 5px;
+}
+
+.bottompadding10 {
+    padding-bottom: 10px;
+}
+
+.bottompadding15 {
+    padding-bottom: 15px;
+}
+
+.bottompadding20 {
+    padding-bottom: 20px;
+}
+
+.bottompadding25 {
+    padding-bottom: 25px;
+}
+
+.bottompadding30 {
+    padding-bottom: 30px;
+}
+
+bottompadding35 {
+    padding-bottom: 35px;
+}
+
+.bottompadding40 {
+    padding-bottom: 40px;
+}
+
+.bottompadding50 {
+    padding-bottom: 50px;
+}
+
+.bottompadding60 {
+    padding-bottom: 60px;
+}
+
+.bottompadding70 {
+    padding-bottom: 70px;
+}
+
+.bottompadding80 {
+    padding-bottom: 80px;
+}
+
+.bottompadding100 {
+    padding-bottom: 100px;
+}
